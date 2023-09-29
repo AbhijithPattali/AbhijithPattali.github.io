@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    color: #505050;
+    color: #84a39e;
 }
 
 /* Header Styles */
 header {
-    background-color: #282689;
+    background-color: 	#0a304d;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -58,7 +58,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #505050;  /* Darker shade for hover */
+    background-color: #84a39e;  /* Darker shade for hover */
 }
 
 /* Banner Styles */
