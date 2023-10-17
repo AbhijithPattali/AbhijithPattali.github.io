@@ -64,6 +64,7 @@ nav a:hover {
 /* Banner Styles */
 .banner-container {
     display: flex;
+    padding: 30px;
     justify-content: center;
     align-items: center;
     height: auto;
@@ -71,11 +72,6 @@ nav a:hover {
     overflow: hidden;
 }
 
-.centered-banner {
-    padding: 30px;
-    max-width: 80%;
-    height: auto;
-}
 
 /* Main Content Styles */
 main {
