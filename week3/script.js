@@ -3,7 +3,7 @@ let index = 0;
 
 let images = [];
 
-let interval = 5000; // 5 seconds
+let interval = 3000; // 3 seconds
 
 images[0] = "images/travel banner.svg";
 images[1] = "images/banner.svg";
